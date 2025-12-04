@@ -3,6 +3,6 @@ module.exports = {
   token: "YOUR_TOKEN",
 
   // Bu nömrələri dəyişəcəksən
-  customerReceiver: "+99455XXXXXXX",
-  donnerciReceiver: "+99455YYYYYYY"
+  customerReceiver: "+994706339433",
+  donnerciReceiver: "+994708734222"
 };
